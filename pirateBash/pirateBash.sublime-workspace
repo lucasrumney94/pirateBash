@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Instantiate",
+				"Instantiate(Object original, Vector3 position, Quaternion rotation, Transform parent)\tObject"
+			],
+			[
+				"Sea",
+				"SeaTiles\tList<GameObject>"
+			],
+			[
+				"sea",
+				"seaWidth\tint"
+			],
+			[
+				"rotat",
+				"Rotate(Vector3 axis, float angle)\tvoid"
+			],
+			[
+				"Vecot",
+				"Vector3()\tVector3()"
+			],
+			[
+				"Vec",
+				"Vector3\tVector3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/script/SeaController.cs",
+			"settings":
+			{
+				"buffer_size": 560,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Lucas/Documents/git/pirateBash/pirateBash/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Lucas/Documents/git/pirateBash/pirateBash/pirateBash.sublime-project",
+		"/C/Users/Lucas/Documents/git/AudioRoom/AudioRoom/Assets/script/utility/rotateMe.cs",
+		"/C/Users/Lucas/Documents/git/AudioRoom/AudioRoom/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs",
+		"/C/Users/Lucas/Documents/git/AudioRoom/AudioRoom/Assets/script/utility/wiggleRotation.cs",
+		"/C/Users/Lucas/Documents/git/AudioRoom/AudioRoom/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs",
+		"/C/Users/Lucas/Documents/git/AudioRoom/AudioRoom/AudioRoom.sublime-project",
+		"/C/Users/Lucas/Documents/git/AudioRoom/AudioRoom/AudioRoomsublime.sublime-project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/script/SeaController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"151,159": "'SeaTiles' should start with a lower case letter. (Rule 'Fields')",
+								"173,181": "Name should have prefix '_'. (Rule 'Fields').",
+								"195,204": "Name should have prefix '_'. (Rule 'Fields').",
+								"218,227": "'SeaHeight' should start with a lower case letter. (Rule 'Fields')",
+								"363,373": "Static method invoked via derived type"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 151.0
+	},
+	"pinned_build_system": "",
+	"project": "pirateBash.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
